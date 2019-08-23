@@ -1,13 +1,13 @@
-<img src="https://pythonchannel.com/media/github/Flask-ML-Sample.jpg" width="100%">
+<img src="https://pythonchannel.com/media/github/asagao.jpg" width="100%">
 
-git clone https://github.com/oshimamasara/Flask_ML.git
+git clone https://github.com/oshimamasara/ML_ASAGAO.git
 
 朝顔の成長データ参考　http://www.fuso-bc.jp/23/78/（株式会社 扶桑商会さま）
 
 
 ## ML APP RUN
 
-1. cd Flask_ML
+1. cd ML_ASAGAO
 2. virtualenv env
 3. source env/bin/activate
 4. 確認 pip freeze
