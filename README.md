@@ -2,8 +2,6 @@
 
 git clone https://github.com/oshimamasara/ML_ASAGAO.git
 
-朝顔の成長データ参考　http://www.fuso-bc.jp/23/78/（株式会社 扶桑商会さま）
-
 
 ## ML APP RUN
 
